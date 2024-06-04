@@ -1,0 +1,14 @@
+{
+  "name": "biblio",
+  "version": "1.0.0",
+  "description": "Mini projet en PHP sous sujet de réalisation d'une application Web de gestion de bibliothèque.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "el atrach",
+  "license": "ISC",
+  "dependencies": {
+    "intl-tel-input": "^23.0.10"
+  }
+}
